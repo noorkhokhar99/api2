@@ -1,0 +1,88 @@
+{
+  "scholarshipURL": [
+    {
+      "id": 1,
+      "eligibilityId": 2,
+      "benefitId": 5,
+      "universityId": 55,
+       "university": "khi",
+      "benefits": "bscs",
+      "eligibility": "+923112167392",
+      "universityName": "nooral",
+     "financialAid": 23,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english",
+       "applicationDeadline": "monday",
+      "description": "hi nice to try in this part",
+      "deliveryMode": "Eschweiler",
+      "duration": "next monthm",
+       "fundType": 88.3,
+      "ieltsLevel": 5.5,
+      "toeflLevel": 9.1,
+      "specialization": "bacholr",
+     "neededLanguageInfo": "sindh",
+      "aidCoverage": "bscs",
+   
+      "startDate": "upadting",
+     "title": "upadting"
+    },
+    {
+       "id": 6,
+      "eligibilityId": 2,
+      "benefitId": 5,
+      "universityId": 55,
+       "university": "khi",
+      "benefits": "bscs",
+      "eligibility": "+923112167392",
+      "universityName": "nooral",
+     "financialAid": 23,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english",
+       "applicationDeadline": "monday",
+      "description": "hi nice to try in this part",
+      "deliveryMode": "Eschweiler",
+      "duration": "next monthm",
+       "fundType": 88.3,
+      "ieltsLevel": 5.5,
+      "toeflLevel": 9.1,
+      "specialization": "bacholr",
+     "neededLanguageInfo": "sindh",
+      "aidCoverage": "bscs",
+   
+      "startDate": "upadting",
+     "title": "upadting"
+    },
+    {
+      "id": 8,
+      "eligibilityId": 21,
+      "benefitId": 5,
+      "universityId": 55,
+       "university": "khi",
+      "benefits": "bscs",
+      "eligibility": "+923112167392",
+      "universityName": "nooral",
+     "financialAid": 23,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english",
+       "applicationDeadline": "monday",
+      "description": "hi nice to try in this part",
+      "deliveryMode": "Eschweiler",
+      "duration": "next monthm",
+       "fundType": 88.3,
+      "ieltsLevel": 5.5,
+      "toeflLevel": 9.1,
+      "specialization": "bacholr",
+     "neededLanguageInfo": "sindh",
+      "aidCoverage": "bscs",
+   
+      "startDate": "upadting",
+     "title": "upadting"
+    }
+  ]
+}
+
+
+
