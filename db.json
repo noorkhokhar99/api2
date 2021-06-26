@@ -67,19 +67,19 @@
 
 
     },
-    {
-    "id": 3,
-      "name": "Fuuast",
-      "description": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
+     {
+       "id": 3,
+      "name": "university of lahore",
+      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
       "country": "Pakistan",
-       "city": "karachi",
-      "faculties": "Computer science",
-      "contactInfo": "(091) 9216701",
-      "rate": 10,
+       "city": "lahore",
+      "faculties": "bscs",
+      "contactInfo": "+92",
+      "rate": 10.2,
      "state": "sindh",
       "certifications": "bscs",
       "extraInfo": "upadting",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png" 
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
     }
   ]
 }
