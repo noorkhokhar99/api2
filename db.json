@@ -1,11 +1,14 @@
 {
-  "scholarshipURL": [
+  "Opportunity": [
     {
       "id": 1,
       "eligibilityId": 1,
       "benefitId": 1,
       "universityId": 1,
       "university": "Nile",
+      "universityName": "Nile",
+      "financialAid": "financialAid",
+      "applicationProcess": "applicationProcess",
       "benefits": "Benefits",
       "eligibility": "Eligibility",
       "universityName": "Nile univercity_banque misr foundation for social development scholarship",
@@ -27,10 +30,10 @@
       "age": "18-24",
       "startDate": "upadting",
       "title": "Nile univercity",
-      "medical" : "udating" ,
+      "medical" : "" ,
        "salary": "Total Value: $8000 as $2000 renewable award each year",
        "accommodation" : "Allowance for accommodation in university shared a dormitory",
-         "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+         "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
 
     },
        {
@@ -60,27 +63,14 @@
       "age": "18-24",
       "startDate": "upadting",
       "title": "Niles univercity",
-      "medical" : "testing" ,
+      "medical" : "" ,
       "salary": "Total Value: $8000 as $2000 renewable award each year",
       "accommodation" : "Allowance for accommodation in university shared a dormitory",
-      "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstep.pgc.edu%2Fnews%2Funiversity-lahore-uol-admissions-spring-2018%2F&psig=AOvVaw14INqMjIwXaPTljNgnM-pR&ust=1624697459304000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDcgOqzsvECFQAAAAAdAAAAABAD"
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstep.pgc.edu%2Fnews%2Funiversity-lahore-uol-admissions-spring-2018%2F&psig=AOvVaw14INqMjIwXaPTljNgnM-pR&ust=1624697459304000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDcgOqzsvECFQAAAAAdAAAAABAD"
 
 
     },
-     {
-       "id": 3,
-      "name": "university of lahore",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "lahore",
-      "faculties": "bscs",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    }
+    
   ]
 }
 
