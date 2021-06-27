@@ -35,42 +35,8 @@
        "accommodation" : "Allowance for accommodation in university shared a dormitory",
          "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
 
-    },
-       {
-      "id": 2,
-      "eligibilityId": 2,
-      "benefitId": 2,
-      "universityId": 2,
-      "university": "Nile",
-      "benefits": "Benefits",
-      "eligibility": "Eligibility",
-      "universityName": "Niles univercity_banque misr foundation for social development scholarship",
-      "financialAid": 23.3,
-      "applicationProcess": "bscs",
-      "extraInfo": "upadting",
-      "otherLanguageTests": "english,urdu,sindh",
-      "applicationDeadline": "31/08/2020",
-      "description": "Trusted results for Bible College In Us. Check Visymo Search for the best results! Unlimited Access. Privacy Friendly. Always Facts. 100% Secure. The Best Resources. Results & Answers. Types: Best Results, Explore Now, New Sources, Best in Search.",
-      "deliveryMode": "Eschweiler",
-      "duration": "More than year",
-      "fundType": "fully/partically funded",
-      "ieltsLevel": "7/9 MIN.score",
-      "toeflLevel": "500/667 MIN. Score",
-      "specialization": "Online Courses from Top Institutions - Gain New Skills & Earn a Certificate of Completion. Enrol today using UPI, popular debit & credit cards, EMI, Netbanking, and digital wallets. 24/7 Customer Support. Real-world Projects. Online Certification. Learn On Any Device.",
-      "neededLanguageInfo": "english,urdu,sindh",
-      "aidCoverage": "bscs",
-      "gender" : "ALL",
-      "age": "18-24",
-      "startDate": "upadting",
-      "title": "Niles univercity",
-      "medical" : "tested" ,
-      "salary": "Total Value: $8000 as $2000 renewable award each year",
-      "accommodation" : "Allowance for accommodation in university shared a dormitory",
-      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstep.pgc.edu%2Fnews%2Funiversity-lahore-uol-admissions-spring-2018%2F&psig=AOvVaw14INqMjIwXaPTljNgnM-pR&ust=1624697459304000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDcgOqzsvECFQAAAAAdAAAAABAD"   
-
-
     }
-    
+          
   ]
 }
 
