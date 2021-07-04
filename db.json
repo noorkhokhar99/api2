@@ -1,55 +1,52 @@
 {
-  "University": [
+  "Opportunity": [
     {
-      "id": 1,
+      "id": null,
+      "eligibilityId": 1,
+      "benefitId": 1,
+      "universityId": 1,
+      "universityName": "Nile univercity_banque misr foundation for social development scholarship",
+      "financialAid": 23.3,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english,urdu,sindh",
+      "applicationDeadline": "31/08/2020",
+      "description": "Trusted results for Bible College In Us. Check Visymo Search for the best results! Unlimited Access. Privacy Friendly. Always Facts. 100% Secure. The Best Resources. Results & Answers. Types: Best Results, Explore Now, New Sources, Best in Search.",
+      "deliveryMode": "Eschweiler",
+      "duration": "More than year",
+      "fundType": "fully/partically funded",
+      "ieltsLevel": "7/9 MIN.score",
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "Online Courses from Top Institutions - Gain New Skills & Earn a Certificate of Completion. Enrol today using UPI, popular debit & credit cards, EMI, Netbanking, and digital wallets. 24/7 Customer Support. Real-world Projects. Online Certification. Learn On Any Device.",
+      "neededLanguageInfo": "english,urdu,sindh",
+      "aidCoverage": "bscs",
+      "startDate": "9/09/2020",
+      "gender" : "ALL",
+      "age": "18-24",
+      "startDate": "upadting",
+      "title": "Nile univercity",
+      "medical" : "apply" ,
+      "salary": "Total Value: $8000 as $2000 renewable award each year",
+      "accommodation" : "Allowance for accommodation in university shared a dormitory",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
       "name": "Fuuast",
-      "description": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
       "country": "Pakistan",
-       "city": "karachi",
+      "city": "karachi",
       "faculties": "Computer science",
       "contactInfo": "(091) 9216701",
       "rate": 10,
-     "state": "sindh",
+      "state": "sindh",
       "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imageUrl": "http://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"  
-      
-      
-      
-    },
-    {
-       "id": 2,
-      "name": "university of peshawar",
-      "description": "The University of Peshawar is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "peshawar",
-      "faculties": "bscs",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imageUrl": "http://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    },
-    {
-       "id": 3,
-      "name": "university of lahore",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "lahore",
-      "faculties": "bscs",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imageUrl": "http://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
+      "other": "how to work in university",
+       "prize": "Total Value: $8000 as $2000 renewable award each year",
+       "degreeType": "COMPUTER science",
+       "constrains": "POULTAIN"
     }
+      
+
+ 
     
-        
-   
   ]
-  
 }
 
 
